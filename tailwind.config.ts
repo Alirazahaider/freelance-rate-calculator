@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      primary: {
+        DEFAULT: '#0d5256',
+        hover: '#117378',
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
