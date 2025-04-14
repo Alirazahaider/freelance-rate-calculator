@@ -1,10 +1,10 @@
 # 💼 Freelance Rate Calculator
 
-A clean, modern calculator for estimating car rental costs. Pick dates, locations, and vehicle types to see instant price estimates—built with Next.js, TypeScript, and TailwindCSS for a fast, smooth experience. Ideal for developers as well as travelers! 🚗
+A smart, intuitive calculator built with Next.js, TypeScript, and Tailwind CSS that helps freelancers determine their ideal hourly, daily, or project rates based on expenses, desired income, and workload.
 
 ![Freelance Rate Calculator Screenshot](./public/screenshot.png)
 
-Live Demo: [car-rental-cost-estimator.vercel.app](https://car-rental-cost-estimator.vercel.app/)
+Live Demo: [freelance-rate-calculator-pro.vercel.app](https://freelance-rate-calculator-pro.vercel.app/)
 
 ---
 
@@ -23,7 +23,6 @@ Live Demo: [car-rental-cost-estimator.vercel.app](https://car-rental-cost-estima
 - **Framework:** [Next.js](https://nextjs.org/)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Charts:** [reCharts](https://recharts.org/)
 - **Deployment:** [Vercel](https://vercel.com/)
 
 ---
